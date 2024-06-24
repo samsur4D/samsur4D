@@ -1,9 +1,9 @@
 <h1 align="center">Hey 😎! Nice To See You</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+#### Web Developer
 ![Web Developer](https://i.ibb.co/mHRgYtP/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png)
 
-<h1 align="center">Hey 😎! Nice To See You</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsur4d&label=Profile%20views&color=0e75b6&style=flat" alt="samsur4d" /> </p>
 
@@ -77,5 +77,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samsur4d" alt="GitHub Streak" />
 </p>
-
 
