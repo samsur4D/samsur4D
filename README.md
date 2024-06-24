@@ -5,21 +5,18 @@
 ![Web Developer](https://i.ibb.co/mHRgYtP/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png)
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=samsur4d&label=Profile%20views&color=0e75b6&style=flat" alt="samsur4d" /> </p>
-<p align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samsur4d&label=Profile%20views&color=0e75b6&style=flat" alt="samsur4d" /> </p>
+
 - 🌱 I’m currently learning **Next Js**
 - 👯 I’m looking to collaborate on **Github**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me **patarehan14600@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AjZxP_kMKEC3OQ9KmGgKIDxFcPS5Y59Z/view?usp=drive_link)
-</p>
+
 ---
 
 <p align="left">
   <img src="https://media1.giphy.com/media/NbhiwA0C8THIv8KvG5/giphy.webp?cid=790b7611uu168mx814e7akeak4d1l3bz4zcv5ivzll8izvay&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="animated" />
-</p>
-<p align="right">
-  <img src="https://i.giphy.com/VbnUQpnihPSIgIXuZv.webp" />
 </p>
 
 ---
