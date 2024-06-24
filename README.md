@@ -4,7 +4,11 @@
 <h1 align="center">Hey 😎! Nice To See You</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samsur4d&label=Profile%20views&color=0e75b6&style=flat" alt="samsur4d" /> </p>
+<p align="left">
+  <p align="right">
+  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" />
+</p>
+  <img src="https://komarev.com/ghpvc/?username=samsur4d&label=Profile%20views&color=0e75b6&style=flat" alt="samsur4d" /> </p>
 
 🌱 I’m currently learning **Next Js**
 - 👯 I’m looking to collaborate on **Github**
