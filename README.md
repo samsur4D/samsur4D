@@ -5,9 +5,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left">
-  <p align="right">
-  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" />
-</p>
+
   <img src="https://komarev.com/ghpvc/?username=samsur4d&label=Profile%20views&color=0e75b6&style=flat" alt="samsur4d" /> </p>
 
 🌱 I’m currently learning **Next Js**
@@ -63,7 +61,9 @@ I am a 💪dedicated Public Health student currently in my second year of Honour
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 </p>
-
+  <p align="right">
+  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsur4d&layout=compact&hide=php" alt="Top Languages" />
 </p>
