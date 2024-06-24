@@ -1,4 +1,5 @@
-#### Web Developer
+<h1 align="center">Hey 😎! Nice To See You</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 ![Web Developer](https://i.ibb.co/mHRgYtP/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png)
 
 <h1 align="center">Hey 😎! Nice To See You</h1>
@@ -14,7 +15,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://media1.giphy.com/media/NbhiwA0C8THIv8KvG5/giphy.webp?cid=790b7611uu168mx814e7akeak4d1l3bz4zcv5ivzll8izvay&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="animated" />
 </p>
 
@@ -76,4 +77,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samsur4d" alt="GitHub Streak" />
 </p>
+
 
