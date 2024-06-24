@@ -6,7 +6,7 @@
 
 <p align="left">
   <p align="right">
-  <img src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif" />
+  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" />
 </p>
   <img src="https://komarev.com/ghpvc/?username=samsur4d&label=Profile%20views&color=0e75b6&style=flat" alt="samsur4d" /> </p>
 
