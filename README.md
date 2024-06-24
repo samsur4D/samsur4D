@@ -21,21 +21,20 @@ I am a 💪dedicated Public Health student currently in my second year of Honour
 
 
 ⚡ Fun facts about me:
-- 🚀 I wrote my first program in BASIC on a vintage Commodore 64!
-- 🎨 In my free time, I love painting landscapes and portraits.
-- 🌍 I’m fluent in three languages: English, Spanish, and JavaScript.
+- 🚀 I first started my coding journey with the Programming Hero team !
+- 🎨 In my free time, I love to watch movies and hang out
+- 🌍 I want to explore the whole world through tours✈
 - 🐛 My favorite way to debug is by explaining the problem to my rubber duck named Quacky.
-- 🎮 I’m a huge fan of retro video games and even built my own arcade machine.
-- ☕ My productivity booster: A cup of freshly brewed coffee and some lo-fi beats.
-- 🧩 I enjoy solving puzzles and regularly participate in coding challenges on LeetCode.
+- ☕ My productivity booster: A cup of freshly brewed coffee and some lo-fi beats
+- 😄 Pronouns: He, Fat & Happy 😄
 - 😄 Here’s a tech joke for you: “Why do programmers prefer dark mode? Because light attracts bugs!”
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-samsur-rahman-samu/" target="_blank">
+  <a href="md-samsur-rahman-samu" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/https://www.facebook.com/groups/webdevelopmentbatch9/posts/917343506827179/?comment_id=917347863493410&notif_id=1719249606696184&notif_t=group_comment" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100075768694469">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/https://www.instagram.com/sams41985/" target="_blank">
