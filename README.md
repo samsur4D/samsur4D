@@ -13,7 +13,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AjZxP_kMKEC3OQ9KmGgKIDxFcPS5Y59Z/view?usp=drive_link)
 
 <p align="right">
-  <img src="https://i.gifer.com/6tXM.gif" />
+  <img src="https://gifer.com/en/6tXM" />
 </p>
 
 ⚡ Fun facts about me:
