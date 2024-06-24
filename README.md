@@ -61,7 +61,7 @@ I am a 💪dedicated Public Health student currently in my second year of Honour
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 </p>
-  <p align="right">
+  <p align="center">
   <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" />
 </p>
 <p align="center">
