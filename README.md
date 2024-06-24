@@ -6,7 +6,7 @@
 
 <p align="left">
   <p align="right">
-  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" />
+  <img src="https://media.tenor.com/D609Ay5PK5QAAAAj/skill-issue-coding.gif" />
 </p>
   <img src="https://komarev.com/ghpvc/?username=samsur4d&label=Profile%20views&color=0e75b6&style=flat" alt="samsur4d" /> </p>
 
