@@ -16,7 +16,7 @@
 
 
 <p align="right">
-  <img src="https://media1.giphy.com/media/NbhiwA0C8THIv8KvG5/giphy.webp?cid=790b7611uu168mx814e7akeak4d1l3bz4zcv5ivzll8izvay&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="animated" width="300" />
+  <img src="https://i.gifer.com/6tXM.gif" />
 </p>
 
 ⚡ Fun facts about me:
