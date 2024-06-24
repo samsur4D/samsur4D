@@ -18,6 +18,9 @@
 <p align="left">
   <img src="https://media1.giphy.com/media/NbhiwA0C8THIv8KvG5/giphy.webp?cid=790b7611uu168mx814e7akeak4d1l3bz4zcv5ivzll8izvay&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="animated" />
 </p>
+<p align="right">
+  <img src="https://i.giphy.com/VbnUQpnihPSIgIXuZv.webp" />
+</p>
 
 ---
 
