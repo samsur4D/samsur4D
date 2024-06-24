@@ -37,7 +37,7 @@ I am a 💪dedicated Public Health student currently in my second year of Honour
   <a href="https://www.facebook.com/profile.php?id=100075768694469">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/sams41985/" target="_blank">
+  <a href="https://www.instagram.com/sams41985/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
