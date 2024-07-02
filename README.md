@@ -1,14 +1,10 @@
 #### Web Developer
 ![Web Developer](https://i.ibb.co/mHRgYtP/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png)
 
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Samsur+Rahman....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Samsur+Rahman....;Nice+to+meet+you!&center=true&size=30&color=000000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Samu👻....;Nice+to+meet+you!&center=true&size=30&color=000000">
   </a>
 </h1>
 
