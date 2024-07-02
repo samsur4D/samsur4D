@@ -39,7 +39,7 @@ I am a 💪dedicated Public Health student currently in my second year of Honour
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
    <a href="https://x.com/samsur4D">
-    <img src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" height="30" width="40" />
+    <img src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" height="30" width="30" />
   </a>
 </p>
 
