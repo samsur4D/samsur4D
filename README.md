@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roton02&label=Profile%20views&color=0e75b6&style=flat" alt="roton02" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mdsanaulla75762" target="blank"><img src="https://img.shields.io/twitter/follow/mdsanaulla75762?logo=twitter&style=for-the-badge" alt="mdsanaulla75762" /></a> </p>
+
 
 🌱 I’m currently learning **Next Js**
 - 👯 I’m looking to collaborate on **Github**
