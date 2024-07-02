@@ -64,7 +64,7 @@ I am a 💪dedicated Public Health student currently in my second year of Honour
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
    <a href="https://cloud.mongodb.com/v2/6627f96c85ddff223bf0052a#/overview" target="_blank" rel="noreferrer">
-    <img src="https://www.wizcase.com/wp-content/uploads/2022/05/en-mongodb-logo.jpg" width="40" height="40"/>
+    <img src="https://ibb.co/xJF4x1J" width="40" height="40"/>
   </a>
 </p>
   <p align="center">
