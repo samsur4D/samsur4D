@@ -105,7 +105,7 @@ I am a 💪dedicated Public Health student currently in my second year of Honour
  
 
 
-<p align="center">
+<p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samsur4d&show_icons=true" alt="GitHub Stats" />
 </p>
