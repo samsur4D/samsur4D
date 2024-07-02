@@ -114,5 +114,6 @@ I am a 💪dedicated Public Health student currently in my second year of Honour
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samsur4d" alt="GitHub Streak" />
 </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samsur4D&hide_border=true" width="100%"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samsur4D&theme=react-dark&bg_color=#ecf0f1&hide_border=true" width="100%"/>
 
 
