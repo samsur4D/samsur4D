@@ -1,7 +1,11 @@
 #### Web Developer
 ![Web Developer](https://i.ibb.co/mHRgYtP/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png)
 
-<h1 align="center">Hey 😎! Nice To See You</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left">
