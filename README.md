@@ -105,7 +105,7 @@ I am a 💪dedicated Public Health student currently in my second year of Honour
  
 
 
-<p>
+<div width="100%" align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samsur4d&show_icons=true" alt="GitHub Stats" />
 </p>
@@ -116,8 +116,8 @@ I am a 💪dedicated Public Health student currently in my second year of Honour
   </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsur4d&layout=compact&hide=php" alt="Top Languages" />
-</p>
+</div>
 
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=samsur4D&theme=react-dark&bg_color=ecf0f1&hide_border=true" width="100%"/>
 
-
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
