@@ -103,16 +103,19 @@ I am a 💪dedicated Public Health student currently in my second year of Honour
 </table>
 <h2 align="center">⚡ Stats ⚡</h2>
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsur4d&layout=compact&hide=php" alt="Top Languages" />
-</p>
 
+
+<p align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samsur4d&show_icons=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samsur4d" alt="GitHub Streak" />
+</p>
+  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsur4d&layout=compact&hide=php" alt="Top Languages" />
 </p>
 
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=samsur4D&theme=react-dark&bg_color=ecf0f1&hide_border=true" width="100%"/>
