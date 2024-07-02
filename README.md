@@ -63,6 +63,9 @@ I am a 💪dedicated Public Health student currently in my second year of Honour
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
+   <a href="https://cloud.mongodb.com/v2/6627f96c85ddff223bf0052a#/overview" target="_blank" rel="noreferrer">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandfetch.com%2Fmongodb.com&psig=AOvVaw223yJMceJarVLzbK2epd7O&ust=1719997392589000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiSst7_h4cDFQAAAAAdAAAAABAE" width="40" height="40"/>
+  </a>
 </p>
   <p align="center">
   <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" />
