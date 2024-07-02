@@ -101,9 +101,7 @@ I am a 💪dedicated Public Health student currently in my second year of Honour
     </td>
   </tr>
 </table>
-  <p align="center">
-  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" />
-</p>
+ 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsur4d&layout=compact&hide=php" alt="Top Languages" />
 </p>
