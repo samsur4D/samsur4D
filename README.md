@@ -1,6 +1,6 @@
 #### Web Developer
 ![Web Developer](https://i.ibb.co/mHRgYtP/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png)
-<img align="right" alt="coding" width="400" src="https://i.ibb.co/By46xpk/Red-and-White-Modern-Welcome-to-My-Channel-Youtube-Intro.gif">
+
 
 
 <h1 align="center">
@@ -14,7 +14,7 @@
 <p align="left">
 
   <img src="https://komarev.com/ghpvc/?username=samsur4d&label=Profile%20views&color=0e75b6&style=flat" alt="samsur4d" /> </p>
-  <img align="right" alt="coding" width="400" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
+  <img align="right" alt="coding" width="400" src="https://i.ibb.co/By46xpk/Red-and-White-Modern-Welcome-to-My-Channel-Youtube-Intro.gif">
 
 
 
