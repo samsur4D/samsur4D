@@ -1,6 +1,7 @@
 #### Web Developer
 ![Web Developer](https://i.ibb.co/mHRgYtP/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png)
-https://i.ibb.co/By46xpk/Red-and-White-Modern-Welcome-to-My-Channel-Youtube-Intro.gif
+![Web Developer](https://i.ibb.co/By46xpk/Red-and-White-Modern-Welcome-to-My-Channel-Youtube-Intro.gif)
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
